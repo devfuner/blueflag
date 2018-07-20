@@ -8,3 +8,8 @@ intro2에서 배우지 않았던 부분은 청기백기 게임을 만들면서 �
 1. dictionary
 2. tuple
 3. function
+
+
+[intro2](https://github.com/devfuner/intro2)에 본 강의를 포함하도록 변경
+
+이 리포지토리는 더이상 진행하지 않음.
